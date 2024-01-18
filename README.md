@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vnyabrown
 - 🌱 I’m currently a 3rd year Computer Science Student
-- ⚡ Fun fact: I've been using C++ for 4 years now
+- ⚡ Fun fact: I like cute small animals
 
 <!---
 vnyabrown/vnyabrown is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
